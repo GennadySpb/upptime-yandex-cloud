@@ -1,6 +1,7 @@
 # Change these first
 owner: GennadySpb # Your GitHub username
 repo: upptime-yandex-cloud # Your Github repository name
+user-agent: Github-Action-by-GennadySpb
 
 # Add your sites here
 sites:
