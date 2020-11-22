@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Yandex.Cloud Console",
+    "url": "https://console.cloud.yandex.ru",
+    "slug": "yandex-cloud-console",
+    "status": "up",
+    "uptime": "0.00%",
+    "time": 250
+  },
+  {
+    "name": "Yandex.Cloud Docs",
+    "url": "https://cloud.yandex.ru/docs",
+    "slug": "yandex-cloud-docs",
+    "status": "up",
+    "uptime": "0.00%",
+    "time": 895
+  },
+  {
+    "name": "Yandex.Cloud Status",
+    "url": "https://status.cloud.yandex.ru",
+    "slug": "yandex-cloud-status",
+    "status": "up",
+    "uptime": "0.00%",
+    "time": 988
+  },
+  {
+    "name": "Google",
+    "url": "https://www.google.com",
+    "slug": "google",
+    "status": "up",
+    "uptime": "0.00%",
+    "time": 25
+  },
+  {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org",
+    "slug": "wikipedia",
+    "status": "up",
+    "uptime": "0.00%",
+    "time": 34
+  }
+]
