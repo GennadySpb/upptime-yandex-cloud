@@ -1,27 +1,30 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
+owner: GennadySpb # Your GitHub username
+repo: upptime-yandex-cloud # Your Github repository name
 
 # Add your sites here
 sites:
+  - name: Yandex.Cloud Console
+    url: https://console.cloud.yandex.ru
+  - name: Yandex.Cloud Docs
+    url: https://cloud.yandex.ru/docs
+  - name: Yandex.Cloud Status
+    url: https://status.cloud.yandex.ru
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+
+assignees: # Users to assign downtime issues (optional)
+  - GennadySpb
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+#  cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /upptime-yandex-cloud
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Yandex.Cloud Status by Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
   navbar:
