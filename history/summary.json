@@ -11,9 +11,9 @@
     "name": "Yandex.Cloud Docs",
     "url": "https://cloud.yandex.ru/docs",
     "slug": "yandex-cloud-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 1445
+    "time": 1439
   },
   {
     "name": "Yandex.Cloud Status",
