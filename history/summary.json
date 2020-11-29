@@ -5,15 +5,15 @@
     "slug": "yandex-cloud-console",
     "status": "up",
     "uptime": "100.00%",
-    "time": 803
+    "time": 833
   },
   {
     "name": "Yandex.Cloud Docs",
     "url": "https://cloud.yandex.ru/docs",
     "slug": "yandex-cloud-docs",
     "status": "up",
-    "uptime": "86.77%",
-    "time": 1334
+    "uptime": "88.77%",
+    "time": 1353
   },
   {
     "name": "Yandex.Cloud Status",
@@ -21,7 +21,7 @@
     "slug": "yandex-cloud-status",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1609
+    "time": 1612
   },
   {
     "name": "Google",
@@ -29,7 +29,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "time": 80
+    "time": 95
   },
   {
     "name": "Wikipedia",
@@ -37,6 +37,6 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 113
+    "time": 117
   }
 ]
