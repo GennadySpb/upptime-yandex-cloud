@@ -9,27 +9,27 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1102,
-    "timeDay": 949,
+    "time": 1107,
+    "timeDay": 1193,
     "timeWeek": 1141,
-    "timeMonth": 1102,
-    "timeYear": 1102
+    "timeMonth": 1107,
+    "timeYear": 1107
   },
   {
     "name": "Yandex.Cloud Docs",
     "url": "https://cloud.yandex.ru/docs",
     "slug": "yandex-cloud-docs",
     "status": "up",
-    "uptime": "94.12%",
+    "uptime": "94.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.12%",
-    "uptimeYear": "94.12%",
-    "time": 1573,
-    "timeDay": 1328,
-    "timeWeek": 1738,
-    "timeMonth": 1573,
-    "timeYear": 1573
+    "uptimeMonth": "94.55%",
+    "uptimeYear": "94.55%",
+    "time": 1589,
+    "timeDay": 1937,
+    "timeWeek": 1773,
+    "timeMonth": 1589,
+    "timeYear": 1589
   },
   {
     "name": "Yandex.Cloud Status",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1833,
-    "timeDay": 1598,
-    "timeWeek": 1890,
-    "timeMonth": 1833,
-    "timeYear": 1833
+    "time": 1851,
+    "timeDay": 2147,
+    "timeWeek": 1962,
+    "timeMonth": 1851,
+    "timeYear": 1851
   },
   {
     "name": "Google",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 108,
-    "timeDay": 55,
-    "timeWeek": 109,
-    "timeMonth": 108,
-    "timeYear": 108
+    "time": 107,
+    "timeDay": 89,
+    "timeWeek": 83,
+    "timeMonth": 107,
+    "timeYear": 107
   },
   {
     "name": "Wikipedia",
@@ -73,10 +73,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 152,
-    "timeDay": 25,
-    "timeWeek": 154,
-    "timeMonth": 152,
-    "timeYear": 152
+    "time": 211,
+    "timeDay": 1144,
+    "timeWeek": 293,
+    "timeMonth": 211,
+    "timeYear": 211
   }
 ]
