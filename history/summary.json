@@ -2,6 +2,7 @@
   {
     "name": "Yandex.Cloud Console",
     "url": "https://console.cloud.yandex.ru",
+    "icon": "https://favicons.githubusercontent.com/console.cloud.yandex.ru",
     "slug": "yandex-cloud-console",
     "status": "up",
     "uptime": "100.00%",
@@ -9,31 +10,38 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1097,
-    "timeDay": 931,
-    "timeWeek": 1073,
-    "timeMonth": 1097,
-    "timeYear": 1097
+    "time": 1103,
+    "timeDay": 1218,
+    "timeWeek": 1075,
+    "timeMonth": 1103,
+    "timeYear": 1103,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Yandex.Cloud Docs",
     "url": "https://cloud.yandex.ru/docs",
+    "icon": "https://favicons.githubusercontent.com/cloud.yandex.ru",
     "slug": "yandex-cloud-docs",
     "status": "up",
-    "uptime": "94.93%",
+    "uptime": "95.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.93%",
-    "uptimeYear": "94.93%",
-    "time": 1615,
-    "timeDay": 2241,
-    "timeWeek": 1821,
-    "timeMonth": 1615,
-    "timeYear": 1615
+    "uptimeMonth": "95.25%",
+    "uptimeYear": "95.25%",
+    "time": 1624,
+    "timeDay": 1858,
+    "timeWeek": 1788,
+    "timeMonth": 1624,
+    "timeYear": 1624,
+    "dailyMinutesDown": {
+      "2020-11-26": 971,
+      "2020-11-25": 97
+    }
   },
   {
     "name": "Yandex.Cloud Status",
     "url": "https://status.cloud.yandex.ru",
+    "icon": "https://favicons.githubusercontent.com/status.cloud.yandex.ru",
     "slug": "yandex-cloud-status",
     "status": "up",
     "uptime": "100.00%",
@@ -41,15 +49,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1830,
-    "timeDay": 1475,
-    "timeWeek": 1885,
-    "timeMonth": 1830,
-    "timeYear": 1830
+    "time": 1835,
+    "timeDay": 1910,
+    "timeWeek": 1850,
+    "timeMonth": 1835,
+    "timeYear": 1835,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google",
     "url": "https://www.google.com",
+    "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
@@ -57,15 +67,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 105,
-    "timeDay": 63,
-    "timeWeek": 80,
-    "timeMonth": 105,
-    "timeYear": 105
+    "time": 103,
+    "timeDay": 71,
+    "timeWeek": 77,
+    "timeMonth": 103,
+    "timeYear": 103,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org",
+    "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
@@ -74,9 +86,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 161,
-    "timeWeek": 283,
+    "timeDay": 216,
+    "timeWeek": 280,
     "timeMonth": 208,
-    "timeYear": 208
+    "timeYear": 208,
+    "dailyMinutesDown": {}
   }
 ]
