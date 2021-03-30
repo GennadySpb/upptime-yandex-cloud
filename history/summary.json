@@ -5,17 +5,21 @@
     "icon": "https://favicons.githubusercontent.com/console.cloud.yandex.ru",
     "slug": "yandex-cloud-console",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1385,
-    "timeDay": 2256,
-    "timeWeek": 1811,
-    "timeMonth": 1734,
-    "timeYear": 1385,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.34%",
+    "time": 1387,
+    "timeDay": 1663,
+    "timeWeek": 1804,
+    "timeMonth": 1732,
+    "timeYear": 1387,
+    "dailyMinutesDown": {
+      "2020-12-24": 143,
+      "2020-11-26": 971,
+      "2020-11-25": 97
+    }
   },
   {
     "name": "Yandex.Cloud Docs",
@@ -29,8 +33,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.34%",
     "time": 1512,
-    "timeDay": 1971,
-    "timeWeek": 1666,
+    "timeDay": 1495,
+    "timeWeek": 1682,
     "timeMonth": 1505,
     "timeYear": 1512,
     "dailyMinutesDown": {
@@ -45,17 +49,21 @@
     "icon": "https://favicons.githubusercontent.com/status.cloud.yandex.ru",
     "slug": "yandex-cloud-status",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.34%",
     "time": 1508,
-    "timeDay": 2232,
-    "timeWeek": 1895,
-    "timeMonth": 1405,
+    "timeDay": 1519,
+    "timeWeek": 1871,
+    "timeMonth": 1409,
     "timeYear": 1508,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-24": 143,
+      "2020-11-26": 971,
+      "2020-11-25": 97
+    }
   },
   {
     "name": "Google",
@@ -63,17 +71,21 @@
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.34%",
     "time": 83,
-    "timeDay": 76,
-    "timeWeek": 74,
-    "timeMonth": 79,
+    "timeDay": 61,
+    "timeWeek": 72,
+    "timeMonth": 78,
     "timeYear": 83,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-24": 143,
+      "2020-11-26": 971,
+      "2020-11-25": 97
+    }
   },
   {
     "name": "Wikipedia",
@@ -81,16 +93,20 @@
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 156,
-    "timeWeek": 171,
-    "timeMonth": 133,
-    "timeYear": 144,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.34%",
+    "time": 143,
+    "timeDay": 28,
+    "timeWeek": 155,
+    "timeMonth": 130,
+    "timeYear": 143,
+    "dailyMinutesDown": {
+      "2020-12-24": 143,
+      "2020-11-26": 971,
+      "2020-11-25": 97
+    }
   }
 ]
