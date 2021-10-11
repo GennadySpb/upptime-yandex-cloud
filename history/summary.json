@@ -4,19 +4,19 @@
     "url": "https://console.cloud.yandex.ru",
     "icon": "https://favicons.githubusercontent.com/console.cloud.yandex.ru",
     "slug": "yandex-cloud-console",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 1629,
-    "timeDay": 1264,
-    "timeWeek": 1719,
-    "timeMonth": 1699,
+    "timeDay": 1431,
+    "timeWeek": 1704,
+    "timeMonth": 1696,
     "timeYear": 1629,
     "dailyMinutesDown": {
-      "2021-10-11": 0
+      "2021-10-11": 24
     }
   },
   {
