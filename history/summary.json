@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1631,
-    "timeDay": 1410,
+    "time": 1630,
+    "timeDay": 1435,
     "timeWeek": 1805,
-    "timeMonth": 1706,
-    "timeYear": 1726,
+    "timeMonth": 1675,
+    "timeYear": 1725,
     "dailyMinutesDown": {
       "2021-10-11": 24
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1568,
-    "timeDay": 1279,
-    "timeWeek": 1444,
-    "timeMonth": 1496,
-    "timeYear": 1575,
+    "time": 1567,
+    "timeDay": 1210,
+    "timeWeek": 1450,
+    "timeMonth": 1475,
+    "timeYear": 1574,
     "dailyMinutesDown": {
       "2021-10-05": 16
     }
@@ -46,18 +46,16 @@
     "slug": "yandex-cloud-status",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1620,
-    "timeDay": 923,
+    "time": 1618,
+    "timeDay": 945,
     "timeWeek": 1047,
-    "timeMonth": 1235,
-    "timeYear": 1604,
-    "dailyMinutesDown": {
-      "2022-02-07": 6
-    }
+    "timeMonth": 1223,
+    "timeYear": 1603,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google",
@@ -71,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 96,
-    "timeDay": 67,
-    "timeWeek": 102,
-    "timeMonth": 120,
+    "timeDay": 60,
+    "timeWeek": 100,
+    "timeMonth": 119,
     "timeYear": 98,
     "dailyMinutesDown": {
       "2021-09-01": 21
@@ -91,10 +89,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 281,
-    "timeWeek": 222,
-    "timeMonth": 249,
-    "timeYear": 210,
+    "timeDay": 155,
+    "timeWeek": 208,
+    "timeMonth": 246,
+    "timeYear": 211,
     "dailyMinutesDown": {}
   }
 ]
