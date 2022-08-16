@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1709,
-    "timeDay": 2086,
-    "timeWeek": 1881,
-    "timeMonth": 1686,
-    "timeYear": 1697,
+    "timeDay": 1846,
+    "timeWeek": 1880,
+    "timeMonth": 1694,
+    "timeYear": 1698,
     "dailyMinutesDown": {
       "2021-10-11": 24
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/cloud.yandex.ru",
     "slug": "yandex-cloud-docs",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1358,
-    "timeDay": 1119,
-    "timeWeek": 980,
-    "timeMonth": 794,
-    "timeYear": 1248,
+    "time": 1357,
+    "timeDay": 1057,
+    "timeWeek": 1011,
+    "timeMonth": 799,
+    "timeYear": 1247,
     "dailyMinutesDown": {
       "2021-10-05": 16
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1338,
-    "timeDay": 410,
-    "timeWeek": 747,
-    "timeMonth": 717,
-    "timeYear": 1182,
+    "time": 1336,
+    "timeDay": 767,
+    "timeWeek": 727,
+    "timeMonth": 712,
+    "timeYear": 1181,
     "dailyMinutesDown": {}
   },
   {
@@ -70,8 +70,8 @@
     "uptimeYear": "100.00%",
     "time": 95,
     "timeDay": 78,
-    "timeWeek": 120,
-    "timeMonth": 93,
+    "timeWeek": 119,
+    "timeMonth": 90,
     "timeYear": 98,
     "dailyMinutesDown": {
       "2021-09-01": 21
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 255,
-    "timeDay": 108,
-    "timeWeek": 126,
-    "timeMonth": 250,
+    "timeDay": 80,
+    "timeWeek": 119,
+    "timeMonth": 247,
     "timeYear": 274,
     "dailyMinutesDown": {
       "2022-06-23": 24,
