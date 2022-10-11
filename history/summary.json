@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1711,
-    "timeDay": 2127,
-    "timeWeek": 1859,
-    "timeMonth": 1783,
+    "time": 1710,
+    "timeDay": 1405,
+    "timeWeek": 1856,
+    "timeMonth": 1774,
     "timeYear": 1698,
-    "dailyMinutesDown": {
-      "2021-10-11": 24
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Yandex.Cloud Docs",
@@ -30,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1244,
-    "timeDay": 1163,
-    "timeWeek": 934,
-    "timeMonth": 863,
+    "time": 1242,
+    "timeDay": 898,
+    "timeWeek": 952,
+    "timeMonth": 881,
     "timeYear": 1122,
     "dailyMinutesDown": {
       "2022-09-29": 16
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1234,
-    "timeDay": 1183,
-    "timeWeek": 990,
-    "timeMonth": 875,
-    "timeYear": 1038,
+    "time": 1232,
+    "timeDay": 782,
+    "timeWeek": 995,
+    "timeMonth": 871,
+    "timeYear": 1036,
     "dailyMinutesDown": {}
   },
   {
@@ -69,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 82,
+    "timeDay": 58,
     "timeWeek": 90,
-    "timeMonth": 101,
+    "timeMonth": 97,
     "timeYear": 95,
     "dailyMinutesDown": {}
   },
@@ -86,10 +84,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 259,
-    "timeDay": 33,
-    "timeWeek": 114,
-    "timeMonth": 181,
+    "time": 260,
+    "timeDay": 217,
+    "timeWeek": 123,
+    "timeMonth": 166,
     "timeYear": 266,
     "dailyMinutesDown": {
       "2022-06-23": 24,
