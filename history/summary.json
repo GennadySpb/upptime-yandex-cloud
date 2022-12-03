@@ -4,9 +4,9 @@
     "url": "https://console.cloud.yandex.ru",
     "icon": "https://icons.duckduckgo.com/ip3/console.cloud.yandex.ru.ico",
     "slug": "yandex-cloud-console",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1481,
     "timeMonth": 1705,
     "timeYear": 1718,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-03": 0
+    }
   },
   {
     "name": "Yandex.Cloud Docs",
