@@ -45,18 +45,20 @@
     "url": "https://status.cloud.yandex.ru",
     "icon": "https://icons.duckduckgo.com/ip3/status.cloud.yandex.ru.ico",
     "slug": "yandex-cloud-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1113,
-    "timeDay": 599,
-    "timeWeek": 882,
-    "timeMonth": 917,
+    "time": 1112,
+    "timeDay": 787,
+    "timeWeek": 894,
+    "timeMonth": 919,
     "timeYear": 895,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-22": 0
+    }
   },
   {
     "name": "Google",
