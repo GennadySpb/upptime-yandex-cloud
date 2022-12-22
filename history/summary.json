@@ -25,18 +25,19 @@
     "url": "https://cloud.yandex.ru/docs",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.yandex.ru.ico",
     "slug": "yandex-cloud-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1150,
-    "timeDay": 1299,
-    "timeWeek": 980,
-    "timeMonth": 878,
+    "time": 1148,
+    "timeDay": 1104,
+    "timeWeek": 971,
+    "timeMonth": 879,
     "timeYear": 1009,
     "dailyMinutesDown": {
+      "2022-12-22": 0,
       "2022-09-29": 16
     }
   },
@@ -47,18 +48,16 @@
     "slug": "yandex-cloud-status",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1111,
     "timeDay": 773,
     "timeWeek": 877,
     "timeMonth": 913,
     "timeYear": 895,
-    "dailyMinutesDown": {
-      "2022-12-22": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google",
