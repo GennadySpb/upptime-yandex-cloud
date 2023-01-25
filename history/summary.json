@@ -6,9 +6,9 @@
     "slug": "yandex-cloud-console",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1727,
     "timeDay": 4571,
@@ -16,7 +16,6 @@
     "timeMonth": 1916,
     "timeYear": 1749,
     "dailyMinutesDown": {
-      "2023-01-25": 9,
       "2022-12-10": 22,
       "2022-12-03": 19
     }
@@ -28,9 +27,9 @@
     "slug": "yandex-cloud-docs",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1112,
     "timeDay": 4567,
@@ -38,7 +37,6 @@
     "timeMonth": 1219,
     "timeYear": 982,
     "dailyMinutesDown": {
-      "2023-01-25": 8,
       "2022-09-29": 16
     }
   },
@@ -47,19 +45,19 @@
     "url": "https://status.cloud.yandex.ru",
     "icon": "https://icons.duckduckgo.com/ip3/status.cloud.yandex.ru.ico",
     "slug": "yandex-cloud-status",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1048,
-    "timeDay": 1169,
-    "timeWeek": 906,
-    "timeMonth": 945,
-    "timeYear": 862,
+    "time": 1057,
+    "timeDay": 3625,
+    "timeWeek": 1553,
+    "timeMonth": 1101,
+    "timeYear": 876,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 7
     }
   },
   {
