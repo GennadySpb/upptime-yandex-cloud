@@ -1,7 +1,7 @@
 url: https://console.cloud.yandex.ru
-status: down
-code: 403
-responseTime: 834
-lastUpdated: 2023-07-31T13:33:47.913Z
+status: up
+code: 200
+responseTime: 1416
+lastUpdated: 2023-07-31T13:50:24.715Z
 startTime: Sun Nov 22 2020 10:02:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
