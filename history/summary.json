@@ -24,18 +24,19 @@
     "url": "https://cloud.yandex.ru/docs",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.yandex.ru.ico",
     "slug": "yandex-cloud-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1489,
+    "time": 1491,
     "timeDay": 2515,
     "timeWeek": 2201,
     "timeMonth": 2163,
     "timeYear": 1638,
     "dailyMinutesDown": {
+      "2024-02-18": 0,
       "2023-07-31": 17
     }
   },
