@@ -4,18 +4,19 @@
     "url": "https://console.cloud.yandex.ru",
     "icon": "https://icons.duckduckgo.com/ip3/console.cloud.yandex.ru.ico",
     "slug": "yandex-cloud-console",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2003,
+    "time": 2004,
     "timeDay": 1671,
     "timeWeek": 1783,
     "timeMonth": 2116,
     "timeYear": 1982,
     "dailyMinutesDown": {
+      "2024-02-27": 0,
       "2023-07-31": 17
     }
   },
