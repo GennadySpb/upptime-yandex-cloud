@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/console.cloud.yandex.ru.ico",
     "slug": "yandex-cloud-console",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "47.18%",
-    "uptimeWeek": "92.45%",
-    "uptimeMonth": "98.26%",
-    "uptimeYear": "99.85%",
-    "time": 2014,
-    "timeDay": 2165,
-    "timeWeek": 1843,
-    "timeMonth": 2083,
+    "uptime": "99.85%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "78.15%",
+    "uptimeMonth": "94.97%",
+    "uptimeYear": "99.58%",
+    "time": 2015,
+    "timeDay": 0,
+    "timeWeek": 1808,
+    "timeMonth": 2077,
     "timeYear": 1980,
     "dailyMinutesDown": {
-      "2024-02-29": 13,
+      "2024-03-01": 15,
+      "2024-02-29": 1440,
       "2024-02-28": 748,
       "2023-07-31": 17
     }
@@ -32,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1523,
-    "timeDay": 2414,
-    "timeWeek": 2029,
-    "timeMonth": 2091,
-    "timeYear": 1668,
+    "time": 1527,
+    "timeDay": 2707,
+    "timeWeek": 2101,
+    "timeMonth": 2121,
+    "timeYear": 1673,
     "dailyMinutesDown": {
       "2023-07-31": 17
     }
@@ -53,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1174,
-    "timeDay": 1744,
-    "timeWeek": 1389,
-    "timeMonth": 1409,
+    "timeDay": 1209,
+    "timeWeek": 1300,
+    "timeMonth": 1412,
     "timeYear": 1238,
     "dailyMinutesDown": {
       "2023-07-31": 17
@@ -73,9 +74,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 106,
-    "timeDay": 68,
-    "timeWeek": 87,
-    "timeMonth": 92,
+    "timeDay": 72,
+    "timeWeek": 69,
+    "timeMonth": 83,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2023-07-18": 35
@@ -93,10 +94,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 623,
-    "timeWeek": 333,
-    "timeMonth": 236,
-    "timeYear": 215,
+    "timeDay": 64,
+    "timeWeek": 269,
+    "timeMonth": 238,
+    "timeYear": 214,
     "dailyMinutesDown": {}
   }
 ]
