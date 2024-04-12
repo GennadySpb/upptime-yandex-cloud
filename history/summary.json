@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/console.cloud.yandex.ru.ico",
     "slug": "yandex-cloud-console",
     "status": "down",
-    "uptime": "96.54%",
+    "uptime": "96.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "88.35%",
+    "uptimeYear": "88.07%",
     "time": 2040,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2018,
     "dailyMinutesDown": {
-      "2024-04-11": 14,
+      "2024-04-12": 14,
+      "2024-04-11": 1440,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
@@ -74,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1671,
-    "timeDay": 4071,
-    "timeWeek": 2900,
-    "timeMonth": 2722,
-    "timeYear": 1847,
+    "time": 1677,
+    "timeDay": 4051,
+    "timeWeek": 3207,
+    "timeMonth": 2796,
+    "timeYear": 1856,
     "dailyMinutesDown": {
       "2023-07-31": 17
     }
@@ -94,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1227,
-    "timeDay": 2641,
-    "timeWeek": 1667,
-    "timeMonth": 1659,
-    "timeYear": 1298,
+    "time": 1228,
+    "timeDay": 1332,
+    "timeWeek": 1722,
+    "timeMonth": 1652,
+    "timeYear": 1299,
     "dailyMinutesDown": {
       "2023-07-31": 17
     }
@@ -115,9 +116,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 105,
-    "timeDay": 78,
-    "timeWeek": 88,
-    "timeMonth": 104,
+    "timeDay": 133,
+    "timeWeek": 92,
+    "timeMonth": 107,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2023-07-18": 35
@@ -134,11 +135,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 233,
-    "timeWeek": 186,
-    "timeMonth": 198,
-    "timeYear": 209,
+    "time": 209,
+    "timeDay": 235,
+    "timeWeek": 194,
+    "timeMonth": 199,
+    "timeYear": 208,
     "dailyMinutesDown": {}
   }
 ]
