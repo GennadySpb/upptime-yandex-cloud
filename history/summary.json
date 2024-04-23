@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/console.cloud.yandex.ru.ico",
     "slug": "yandex-cloud-console",
     "status": "down",
-    "uptime": "95.69%",
+    "uptime": "95.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "85.33%",
-    "time": 2047,
+    "uptimeYear": "85.06%",
+    "time": 2048,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2020,
+    "timeYear": 2016,
     "dailyMinutesDown": {
-      "2024-04-22": 15,
+      "2024-04-23": 14,
+      "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
       "2024-04-19": 1440,
@@ -85,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1717,
-    "timeDay": 2865,
-    "timeWeek": 3071,
-    "timeMonth": 2951,
-    "timeYear": 1901,
+    "time": 1721,
+    "timeDay": 2643,
+    "timeWeek": 3037,
+    "timeMonth": 2975,
+    "timeYear": 1904,
     "dailyMinutesDown": {
       "2023-07-31": 17
     }
@@ -106,10 +107,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1243,
-    "timeDay": 1041,
-    "timeWeek": 1744,
-    "timeMonth": 1669,
-    "timeYear": 1315,
+    "timeDay": 1042,
+    "timeWeek": 1602,
+    "timeMonth": 1673,
+    "timeYear": 1312,
     "dailyMinutesDown": {
       "2023-07-31": 17
     }
@@ -126,9 +127,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 105,
-    "timeDay": 74,
-    "timeWeek": 119,
-    "timeMonth": 109,
+    "timeDay": 189,
+    "timeWeek": 124,
+    "timeMonth": 112,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2023-07-18": 35
@@ -146,9 +147,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 156,
-    "timeWeek": 169,
-    "timeMonth": 206,
+    "timeDay": 181,
+    "timeWeek": 167,
+    "timeMonth": 201,
     "timeYear": 208,
     "dailyMinutesDown": {}
   }
