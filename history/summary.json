@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/console.cloud.yandex.ru.ico",
     "slug": "yandex-cloud-console",
     "status": "down",
-    "uptime": "91.57%",
+    "uptime": "91.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "69.99%",
-    "time": 1979,
+    "uptimeYear": "69.71%",
+    "time": 1980,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2007,
+    "timeYear": 2006,
     "dailyMinutesDown": {
-      "2024-06-17": 15,
+      "2024-06-18": 15,
+      "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
@@ -141,11 +142,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1911,
-    "timeDay": 3325,
-    "timeWeek": 3116,
-    "timeMonth": 2886,
-    "timeYear": 2161,
+    "time": 1915,
+    "timeDay": 2880,
+    "timeWeek": 3163,
+    "timeMonth": 2881,
+    "timeYear": 2164,
     "dailyMinutesDown": {
       "2023-07-31": 17
     }
@@ -161,11 +162,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1300,
-    "timeDay": 1823,
-    "timeWeek": 1470,
-    "timeMonth": 1498,
-    "timeYear": 1375,
+    "time": 1299,
+    "timeDay": 906,
+    "timeWeek": 1449,
+    "timeMonth": 1495,
+    "timeYear": 1374,
     "dailyMinutesDown": {
       "2023-07-31": 17
     }
@@ -182,10 +183,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 69,
+    "timeDay": 75,
     "timeWeek": 131,
     "timeMonth": 104,
-    "timeYear": 112,
+    "timeYear": 111,
     "dailyMinutesDown": {
       "2024-05-01": 34,
       "2023-07-18": 35
@@ -202,11 +203,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 181,
-    "timeWeek": 202,
-    "timeMonth": 204,
-    "timeYear": 207,
+    "time": 213,
+    "timeDay": 342,
+    "timeWeek": 222,
+    "timeMonth": 209,
+    "timeYear": 208,
     "dailyMinutesDown": {}
   }
 ]
