@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 2003,
     "dailyMinutesDown": {
-      "2024-06-21": 326,
+      "2024-06-21": 332,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
@@ -200,19 +200,19 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 160,
-    "timeWeek": 179,
-    "timeMonth": 195,
+    "time": 212,
+    "timeDay": 181,
+    "timeWeek": 182,
+    "timeMonth": 196,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2024-06-21": 0
+      "2024-06-21": 6
     }
   }
 ]
