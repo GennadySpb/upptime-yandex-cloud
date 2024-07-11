@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/console.cloud.yandex.ru.ico",
     "slug": "yandex-cloud-console",
     "status": "down",
-    "uptime": "89.97%",
+    "uptime": "89.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "63.61%",
+    "uptimeYear": "63.41%",
     "time": 1995,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2009,
     "dailyMinutesDown": {
-      "2024-07-10": 430,
+      "2024-07-11": 16,
+      "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
@@ -164,11 +165,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2010,
-    "timeDay": 2889,
-    "timeWeek": 3542,
-    "timeMonth": 3230,
-    "timeYear": 2249,
+    "time": 2013,
+    "timeDay": 2476,
+    "timeWeek": 3563,
+    "timeMonth": 3228,
+    "timeYear": 2250,
     "dailyMinutesDown": {
       "2023-07-31": 17
     }
@@ -185,9 +186,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1335,
-    "timeDay": 4041,
-    "timeWeek": 2278,
-    "timeMonth": 1698,
+    "timeDay": 1240,
+    "timeWeek": 2336,
+    "timeMonth": 1704,
     "timeYear": 1401,
     "dailyMinutesDown": {
       "2023-07-31": 17
@@ -205,10 +206,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 110,
-    "timeDay": 84,
+    "timeDay": 90,
     "timeWeek": 130,
-    "timeMonth": 119,
-    "timeYear": 112,
+    "timeMonth": 120,
+    "timeYear": 109,
     "dailyMinutesDown": {
       "2024-05-01": 34,
       "2023-07-18": 35
@@ -221,17 +222,15 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 153,
-    "timeWeek": 235,
-    "timeMonth": 194,
+    "timeDay": 274,
+    "timeWeek": 261,
+    "timeMonth": 200,
     "timeYear": 207,
-    "dailyMinutesDown": {
-      "2024-07-10": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
