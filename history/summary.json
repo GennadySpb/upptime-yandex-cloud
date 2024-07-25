@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/console.cloud.yandex.ru.ico",
     "slug": "yandex-cloud-console",
     "status": "down",
-    "uptime": "89.01%",
+    "uptime": "88.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "59.68%",
-    "time": 2005,
+    "uptimeYear": "59.58%",
+    "time": 2006,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2010,
+    "timeYear": 2012,
     "dailyMinutesDown": {
-      "2024-07-24": 891,
+      "2024-07-25": 15,
+      "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
@@ -179,10 +180,10 @@
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.97%",
     "time": 2124,
-    "timeDay": 5240,
-    "timeWeek": 4326,
-    "timeMonth": 3698,
-    "timeYear": 2348,
+    "timeDay": 5013,
+    "timeWeek": 4291,
+    "timeMonth": 3633,
+    "timeYear": 2346,
     "dailyMinutesDown": {
       "2024-07-24": 153,
       "2023-07-31": 17
@@ -199,11 +200,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1364,
-    "timeDay": 1808,
-    "timeWeek": 2420,
-    "timeMonth": 1981,
-    "timeYear": 1431,
+    "time": 1362,
+    "timeDay": 884,
+    "timeWeek": 2379,
+    "timeMonth": 1954,
+    "timeYear": 1429,
     "dailyMinutesDown": {
       "2023-07-31": 17
     }
@@ -220,10 +221,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 110,
-    "timeDay": 80,
-    "timeWeek": 91,
-    "timeMonth": 110,
-    "timeYear": 109,
+    "timeDay": 174,
+    "timeWeek": 101,
+    "timeMonth": 113,
+    "timeYear": 108,
     "dailyMinutesDown": {
       "2024-05-01": 34
     }
@@ -240,10 +241,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 847,
-    "timeWeek": 279,
-    "timeMonth": 230,
-    "timeYear": 208,
+    "timeDay": 492,
+    "timeWeek": 313,
+    "timeMonth": 242,
+    "timeYear": 209,
     "dailyMinutesDown": {}
   }
 ]
