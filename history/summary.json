@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 2028,
     "dailyMinutesDown": {
-      "2024-08-24": 455,
+      "2024-08-24": 461,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
@@ -204,9 +204,9 @@
     "slug": "yandex-cloud-docs",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.56%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.55%",
     "uptimeYear": "99.96%",
     "time": 2246,
     "timeDay": 4404,
@@ -214,7 +214,7 @@
     "timeMonth": 3249,
     "timeYear": 2459,
     "dailyMinutesDown": {
-      "2024-08-24": 16,
+      "2024-08-24": 22,
       "2024-08-18": 22,
       "2024-07-24": 153
     }
@@ -224,18 +224,20 @@
     "url": "https://status.cloud.yandex.ru",
     "icon": "https://icons.duckduckgo.com/ip3/status.cloud.yandex.ru.ico",
     "slug": "yandex-cloud-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1432,
+    "time": 1433,
     "timeDay": 980,
     "timeWeek": 2153,
     "timeMonth": 2209,
     "timeYear": 1510,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-24": 0
+    }
   },
   {
     "name": "Google",
