@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 2068,
     "dailyMinutesDown": {
-      "2024-10-16": 897,
+      "2024-10-16": 903,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
@@ -277,19 +277,19 @@
     "url": "https://status.cloud.yandex.ru",
     "icon": "https://icons.duckduckgo.com/ip3/status.cloud.yandex.ru.ico",
     "slug": "yandex-cloud-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1637,
-    "timeDay": 1249,
-    "timeWeek": 2421,
-    "timeMonth": 2711,
-    "timeYear": 1756,
+    "time": 1655,
+    "timeDay": 4378,
+    "timeWeek": 3334,
+    "timeMonth": 2959,
+    "timeYear": 1780,
     "dailyMinutesDown": {
-      "2024-10-16": 5
+      "2024-10-16": 0
     }
   },
   {
