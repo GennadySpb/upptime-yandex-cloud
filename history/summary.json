@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/console.cloud.yandex.ru.ico",
     "slug": "yandex-cloud-console",
     "status": "up",
-    "uptime": "79.42%",
+    "uptime": "79.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "49.33%",
-    "time": 1663,
-    "timeDay": 2162,
-    "timeWeek": 2982,
-    "timeMonth": 3273,
-    "timeYear": 1663,
+    "uptimeYear": "49.61%",
+    "time": 1665,
+    "timeDay": 2071,
+    "timeWeek": 2946,
+    "timeMonth": 3220,
+    "timeYear": 1665,
     "dailyMinutesDown": {
       "2025-07-14": 856,
       "2025-07-13": 1440,
@@ -202,8 +202,7 @@
       "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
-      "2024-08-19": 1440,
-      "2024-08-18": 1440
+      "2024-08-19": 1440
     }
   },
   {
@@ -217,17 +216,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 3416,
-    "timeDay": 3038,
-    "timeWeek": 3911,
-    "timeMonth": 3713,
-    "timeYear": 3497,
+    "time": 3417,
+    "timeDay": 2665,
+    "timeWeek": 3878,
+    "timeMonth": 3706,
+    "timeYear": 3498,
     "dailyMinutesDown": {
       "2025-05-29": 43,
       "2025-04-22": 35,
       "2025-02-10": 28,
-      "2024-08-24": 83,
-      "2024-08-18": 22
+      "2024-08-24": 83
     }
   },
   {
@@ -241,11 +239,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2741,
-    "timeDay": 2790,
-    "timeWeek": 2926,
-    "timeMonth": 3230,
-    "timeYear": 3023,
+    "time": 2740,
+    "timeDay": 1683,
+    "timeWeek": 2906,
+    "timeMonth": 3162,
+    "timeYear": 3024,
     "dailyMinutesDown": {
       "2025-04-22": 35,
       "2024-11-29": 27,
@@ -264,9 +262,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 76,
-    "timeWeek": 85,
-    "timeMonth": 105,
+    "timeDay": 67,
+    "timeWeek": 84,
+    "timeMonth": 104,
     "timeYear": 111,
     "dailyMinutesDown": {}
   },
@@ -284,7 +282,7 @@
     "time": 202,
     "timeDay": 41,
     "timeWeek": 241,
-    "timeMonth": 191,
+    "timeMonth": 189,
     "timeYear": 196,
     "dailyMinutesDown": {}
   }
