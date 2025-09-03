@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "53.98%",
+    "uptimeYear": "54.02%",
     "time": 1765,
     "timeDay": 2920,
     "timeWeek": 2656,
@@ -239,18 +239,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 75,
-    "timeWeek": 77,
-    "timeMonth": 108,
+    "timeDay": 179,
+    "timeWeek": 103,
+    "timeMonth": 113,
     "timeYear": 111,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-03": 0
+    }
   },
   {
     "name": "Wikipedia",
