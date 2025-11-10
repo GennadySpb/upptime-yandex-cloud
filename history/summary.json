@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/console.cloud.yandex.ru.ico",
     "slug": "yandex-cloud-console",
     "status": "down",
-    "uptime": "79.53%",
+    "uptime": "79.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "49.45%",
+    "uptimeMonth": "46.16%",
     "uptimeYear": "68.13%",
     "time": 2026,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 3025,
+    "timeMonth": 3098,
     "timeYear": 2026,
     "dailyMinutesDown": {
-      "2025-11-09": 22,
+      "2025-11-10": 22,
+      "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
@@ -136,8 +137,7 @@
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
-      "2024-11-11": 1440,
-      "2024-11-10": 1440
+      "2024-11-11": 1440
     }
   },
   {
@@ -151,11 +151,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 3416,
-    "timeDay": 4460,
-    "timeWeek": 3882,
-    "timeMonth": 3290,
-    "timeYear": 3444,
+    "time": 3413,
+    "timeDay": 2008,
+    "timeWeek": 3725,
+    "timeMonth": 3277,
+    "timeYear": 3440,
     "dailyMinutesDown": {
       "2025-05-29": 43,
       "2025-04-22": 35,
@@ -173,11 +173,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2847,
-    "timeDay": 2798,
-    "timeWeek": 2354,
-    "timeMonth": 2129,
-    "timeYear": 2871,
+    "time": 2849,
+    "timeDay": 2279,
+    "timeWeek": 2317,
+    "timeMonth": 2153,
+    "timeYear": 2869,
     "dailyMinutesDown": {
       "2025-04-22": 35,
       "2024-11-29": 27
@@ -195,9 +195,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 93,
-    "timeWeek": 248,
-    "timeMonth": 139,
+    "timeDay": 87,
+    "timeWeek": 249,
+    "timeMonth": 140,
     "timeYear": 114,
     "dailyMinutesDown": {
       "2025-10-06": 16
@@ -215,9 +215,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 90,
-    "timeWeek": 137,
-    "timeMonth": 176,
+    "timeDay": 205,
+    "timeWeek": 155,
+    "timeMonth": 160,
     "timeYear": 187,
     "dailyMinutesDown": {}
   }
