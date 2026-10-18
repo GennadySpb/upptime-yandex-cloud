@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/console.cloud.yandex.ru.ico",
     "slug": "yandex-cloud-console",
     "status": "up",
-    "uptime": "74.54%",
+    "uptime": "74.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.83%",
     "uptimeMonth": "99.14%",
@@ -223,17 +223,17 @@
     "url": "https://cloud.yandex.ru/docs",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.yandex.ru.ico",
     "slug": "yandex-cloud-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "94.32%",
     "uptimeMonth": "98.69%",
     "uptimeYear": "99.72%",
-    "time": 2877,
-    "timeDay": 2619,
-    "timeWeek": 2536,
-    "timeMonth": 3449,
-    "timeYear": 2689,
+    "time": 2870,
+    "timeDay": 1594,
+    "timeWeek": 2357,
+    "timeMonth": 3364,
+    "timeYear": 2685,
     "dailyMinutesDown": {
       "2025-11-10": 53,
       "2025-12-09": 30,
@@ -251,7 +251,8 @@
       "2026-10-12": 129,
       "2026-10-11": 49,
       "2026-10-13": 126,
-      "2026-10-16": 269
+      "2026-10-16": 269,
+      "2026-10-18": 0
     }
   },
   {
