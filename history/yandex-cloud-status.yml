@@ -1,7 +1,7 @@
 url: https://status.cloud.yandex.ru
-status: up
-code: 200
-responseTime: 2693
-lastUpdated: 2026-10-20T01:37:27.806Z
+status: down
+code: 403
+responseTime: 813
+lastUpdated: 2026-10-21T01:22:28.874Z
 startTime: 2020-11-22T10:02:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
