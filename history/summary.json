@@ -223,16 +223,16 @@
     "url": "https://cloud.yandex.ru/docs",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.yandex.ru.ico",
     "slug": "yandex-cloud-docs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "86.47%",
-    "uptimeWeek": "91.65%",
-    "uptimeMonth": "97.38%",
-    "uptimeYear": "99.61%",
+    "uptimeDay": "81.39%",
+    "uptimeWeek": "90.92%",
+    "uptimeMonth": "97.22%",
+    "uptimeYear": "99.59%",
     "time": 2860,
-    "timeDay": 835,
-    "timeWeek": 2440,
-    "timeMonth": 3159,
+    "timeDay": 1529,
+    "timeWeek": 2476,
+    "timeMonth": 3153,
     "timeYear": 2675,
     "dailyMinutesDown": {
       "2025-11-10": 53,
@@ -254,7 +254,7 @@
       "2026-10-16": 269,
       "2026-10-19": 318,
       "2026-10-18": 61,
-      "2026-10-21": 195
+      "2026-10-21": 268
     }
   },
   {
@@ -262,17 +262,17 @@
     "url": "https://status.cloud.yandex.ru",
     "icon": "https://icons.duckduckgo.com/ip3/status.cloud.yandex.ru.ico",
     "slug": "yandex-cloud-status",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "91.43%",
-    "uptimeWeek": "93.07%",
-    "uptimeMonth": "97.31%",
-    "uptimeYear": "99.55%",
+    "uptimeDay": "86.34%",
+    "uptimeWeek": "92.35%",
+    "uptimeMonth": "97.14%",
+    "uptimeYear": "99.54%",
     "time": 2551,
-    "timeDay": 813,
-    "timeWeek": 2418,
-    "timeMonth": 2707,
-    "timeYear": 2420,
+    "timeDay": 2041,
+    "timeWeek": 2489,
+    "timeMonth": 2722,
+    "timeYear": 2422,
     "dailyMinutesDown": {
       "2025-11-10": 53,
       "2025-12-09": 30,
@@ -294,7 +294,7 @@
       "2026-10-15": 37,
       "2026-10-16": 264,
       "2026-10-19": 274,
-      "2026-10-21": 123
+      "2026-10-21": 197
     }
   },
   {
